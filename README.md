@@ -32,3 +32,6 @@ https://moraa-dev.github.io/portfolio.github.io/
 - Styling with CSS Grid and Flexbox
 - Using `localStorage` for basic data persistence
 - Deploying a static site online
+
+##File Structure
+My files haven't been put into corresponding folders (structuring), e.g. js, css, images etc, as I was striving to grasp concepts via a single structure approach in preparation for multi-structuring.
